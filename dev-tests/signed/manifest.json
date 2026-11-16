@@ -1,0 +1,16 @@
+{
+  "schema": 1,
+  "channel": "preview",
+  "sequence": 1,
+  "issued_at": "seq-1",
+  "artifacts": [
+    {
+      "app_id": "com.measurestudio.distribution-probe",
+      "version": "0.13.0",
+      "platform": "windows-x64",
+      "url": "https://raw.githubusercontent.com/RaerOG2/measurestudio-releases/main/dev-tests/measure-distribution-0.13.0.txt",
+      "bytes": 146,
+      "sha256": "5c544c21f8fca5b602b4a63fa9b1ef9e09161fe25d165fffb9052aa63273d974"
+    }
+  ]
+}
