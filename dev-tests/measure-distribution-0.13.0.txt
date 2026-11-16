@@ -1,0 +1,5 @@
+Measure Studio Distribution Online TEST
+Channel: preview
+Version: 0.13.0
+Type: harmless-text-payload
+No executable, no secrets, no customer data.
