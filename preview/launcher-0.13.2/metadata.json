@@ -1,0 +1,12 @@
+{
+  "app_id": "com.measurestudio.launcher",
+  "version": "0.13.2",
+  "channel": "preview",
+  "status": "source-patch-staging",
+  "compiled": false,
+  "github_release_created": false,
+  "package_name": "measurestudio-launcher-preview-0.13.2-update-center-stability.zip",
+  "package_size_bytes": 27044,
+  "sha256": "37ef1728b31aa26217c2a4f20b2764f991dc3c5dab0fc0c42cf79f8a908b22dc",
+  "tests": "Windows validation pending"
+}
